@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home{
+    margin-left: 53rem;
+}
+.welcome{
+    background-image: url(./header.jpg);
+    height: 30rem;
+    background-repeat: no-repeat;
+    width: 85rem;
+    
+}
+.write{
+    padding-top: 10rem;
+}
+.ghn{
+    background: grey;
+    height: 32rem;
+}
+.icon{
+    font-size: 7rem;
+    padding-left: 4.3rem;
+    padding-top: 3rem;
+   
+}
+.data{
+    margin-left: 2rem;
+    margin-top: .5rem;
+}
+.my{
+    padding-top: 3rem;
+}
+.ser{
+   padding-top: 2rem;
+   color: honeydew;
+}
+.team{
+    text-align: center;
+}
+.hight{
+    height: 3rem;
+    width: 4rem;
+    border-radius: 60%;
+    margin-left: 3.5rem;
+    margin-top: -3rem;
+    
+}
+.car{
+    border-bottom: 1px solid black;
+   
+}
+.ic{
+    font-size: 2rem;
+    padding: 1rem;
+    transition: 1s;
+}
+.ins{
+    margin-left: 1rem;
+    color: #DD2A7B;
+}
+.fb{
+    margin-left: 2rem;
+    color: #3b5998;
+}
+.lk{
+    margin-left: 1rem;
+    color: #0e76a8;
+}
+body{
+    background: blanchedalmond;
+}
+.flex{
+    display: flex;
+}
+.test1{
+    margin-left: 6rem;
+    margin-top: -5.5rem;
+}
+.test2{
+    margin-left: 11rem;
+    margin-top: -5.5rem;
+}
+.icnn{
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+}
+
+
+.im{
+    height: 8rem;
+    width: 9rem;
+    padding: .5rem;
+}
+.fgh{
+    margin-left: 27rem;
+    margin-top: -20rem;
+}
+.work{
+   margin-top: -1rem; 
+}
+.icnnn :hover{
+    transform: scale(2);
+}
+.em{
+    color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 17rem;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:rgb(58, 44, 51);
+  }
+  .hove :hover .overlay{
+      opacity: 1;
+  }
+  .hovee :hover .ic{
+    opacity: 1;
+}
+.shed{
+    background-image: url(./pexels-quintin-gellar-313782.jpg);
+    
+    background-repeat: no-repeat;
+    
+    height: 34rem;
+    
+}
+.borde{
+    border: 0px solid black ; padding: 50px 60px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    -webkit-box-shadow: -2px 5px 26px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 5px 26px 12px rgba(0,0,0,0.75);
+box-shadow: -2px 5px 26px 12px rgba(0,0,0,0.75);
+border-radius: 00px 70px;
+}
+.but{
+    
+}
+.bnh{
+    margin-top: -2rem;
+}
+.hover01 figure img{
+    
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    height: 5rem;
+    width: 6rem;
+    margin-left: 5rem;
+    border-radius: 30%;
+}
+.hover01 figure:hover img {
+    -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+
+}
+.butt{
+    margin-left: 40rem;
+    height: 2rem;
+    width: 7rem;
+}
+.imim{
+    padding-left: 1rem;
+    padding-right: -1rem;
+    padding-top: 1rem;
+    padding-bottom: ;
+    
+}
+.writewit{
+    margin-left: ;
+}
